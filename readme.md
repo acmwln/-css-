@@ -1,13 +1,5 @@
 
-## ![logo](https://github.com/chokcoco/iCSS/blob/master/logo.jpg?raw=true)
-
 CSS 奇技淫巧，在这里，都有。
-
-本系列文章围绕 CSS/web动画 展开，谈一些有趣的话题，内容天马行空，想到什么说什么，不仅是为了拓宽解决问题的思路，更涉及一些容易忽视或是十分有趣的 CSS 细节。
-
-持续更新中，觉得不错的可以点个 `star` 收藏支持。
-
-
 
 [CSS进阶系列](http://www.cnblogs.com/coco1s/category/833837.html)
 
@@ -144,4 +136,4 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 44、CSS-SNAP-POINT
 
-## Contact Me
+
